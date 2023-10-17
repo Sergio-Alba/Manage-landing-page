@@ -17,8 +17,8 @@ module.exports = {
       backgroundImage:{
         "close-menu":"url('../../images/icon-close.svg')",
         "open-menu":"url('../../images/icon-hamburger.svg')",
-        "illustration-tab":"url('./images/bg-tablet-pattern.svg')",
-      }
+        "illustration-tab":"url('../../images/bg-tablet-pattern.svg')"
+      },
     },
   },
   plugins: [],
